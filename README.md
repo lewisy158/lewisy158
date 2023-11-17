@@ -1,5 +1,3 @@
-<link rel="stylesheet" type="text/css" href="./beautiful.css">
-
 ## Intro  
 ## Hey 👋, I'm Lewis!  
 Enjoy Coding. Enjoy Life. Connect with me here -
@@ -34,7 +32,9 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/lewisy15
 <a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="25" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" /></a>  
 <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="25" /></a>  
-</div>  
+</div>
+
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=lewisy158" /> </div>
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
