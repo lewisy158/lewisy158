@@ -1,6 +1,6 @@
 
-## Intro  
-## Hey 👋, I'm Lewis!  
+## Intro
+## Hey 👋, I'm Lewis!
 Enjoy Coding. Enjoy Life. Connect with me here -
 
 [![163 邮箱](https://img.shields.io/badge/-163%20Mail-FC1F1F?style=plastic&link=mailto:15821080288@163.com)](mailto:15821080288@163.com)
@@ -8,6 +8,8 @@ Enjoy Coding. Enjoy Life. Connect with me here -
 [![WeChat](https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white)](https://raw.githubusercontent.com/lewisy158/lewisy158/master/images/wechat.jpg)
 
 Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/lewisy158/count.svg)]() visitor, Thank You!🎉🎉
+
+<br/>
 
 ## Languages and Tools  
 <div align="center">  
@@ -34,6 +36,8 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/lewisy15
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" /></a>  
 <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="25" /></a>  
 </div>
+
+<br/>
 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=lewisy158" /> </div>
 
